@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Baixar código
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
