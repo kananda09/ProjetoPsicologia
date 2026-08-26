@@ -29,7 +29,7 @@ jobs:
       - name: Publicar Front-end
         uses: actions/upload-pages-artifact@v4
         with:
-          path: './Front-end'
+          path: './Frontend'
 
       - name: Deploy no GitHub Pages
         id: deployment
