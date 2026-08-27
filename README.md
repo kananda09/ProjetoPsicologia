@@ -71,6 +71,8 @@ ProjetoPsicologia/
 │
 ├── .gitignore
 └── README.md
+```
+---
 
 ## 📄 Páginas do Site
 
@@ -99,17 +101,14 @@ Apresenta os serviços terapêuticos oferecidos:
 ### 📞 Contato
 
 Página destinada ao contato e agendamento, contendo formulário e informações de atendimento.
-
+---
 
 ## ⚙️ Back-end com Node.js e Express
 
 O projeto utiliza **Node.js** e **Express** para disponibilizar o Front-end através de um servidor local.
 
 O servidor utiliza a porta:
-
-```text
 http://localhost:5000
-
 
 ## Rotas disponíveis
 /
@@ -146,7 +145,7 @@ O Front-end está publicado através do GitHub Pages.
 # 🔗 Projeto online
 
 https://kananda09.github.io/ProjetoPsicologia/
-
+---
 
 ## 🔄 GitHub Actions
 
@@ -157,7 +156,7 @@ Sempre que uma alteração é enviada para a branch main, o workflow realiza o p
 O workflow está localizado em:
 
 .github/workflows/deploy.yml
-
+---
 
 ## 🔐 Organização do Projeto
 
